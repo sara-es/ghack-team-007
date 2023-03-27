@@ -7,4 +7,4 @@ Everything created at the event is in the public domain and free to use. This co
 ## First steps
 For this project we used the [Adafruit Flora](https://learn.adafruit.com/) and the [LSM303 accelerometer](https://learn.adafruit.com/lsm303-accelerometer-slash-compass-breakout) to measure the change in position and orientation of the glove. In order to upload a project to the Flora it is necessary to first install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) and additional [Adafruit libaries](https://learn.adafruit.com/flora-accelerometer/downloads). 
 
-To run the python code with conditional motion interpretation, we installed the library (pySerial)[https://github.com/pyserial/pyserial], which allows the script to read from the Flora's port on the laptop. 
+To run the python code with conditional motion interpretation, we installed the library [pySerial](https://github.com/pyserial/pyserial), which allows the script to read from the Flora's port on the laptop. 
